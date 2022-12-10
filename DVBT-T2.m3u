@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NET" group-title="General",NET
+http://210.210.155.37/qwr9ew/s/s08/index.m3u8
+#EXTINF:-1 tvg-id="RodjaTV" group-title="General",RodjaTV
+http://210.210.155.37/qwr9ew/s/s14/index.m3u8
+#EXTINF:-1 tvg-id="SCTV" group-title="General",SCTV
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+#EXTINF:-1 tvg-id="MOJI" group-title="General",MOJI
+http://210.210.155.37/qwr9ew/s/s41/index.m3u8
+#EXTINF:-1 tvg-id="ANTV" group-title="General",ANTV
+http://210.210.155.37/qwr9ew/s/s07/index.m3u8
+#EXTINF:-1 tvg-id="Indosiar" group-title="General",Indosiar
+http://210.210.155.37/qwr9ew/s/s04/index.m3u8
+#EXTINF:-1 tvg-id="TVRI" group-title="General",TVRI
+http://210.210.155.37/qwr9ew/s/s11/index.m3u8
