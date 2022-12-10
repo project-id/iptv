@@ -1,28 +1,13 @@
 #EXTM3U
 
-
-
-#EXTINF:-1 tvg-logo="https://mr.bibbo.id/ccc/tv-trans7.png" group-title="Indonesia TV",Trans 7
-http://210.210.155.35/qwr9ew/s/s101/01.m3u8
-
-#EXTINF:-1 group-title="Indonesia TV",Trans TV
-http://210.210.155.35/x6bnqe/s/s252/01.m3u8
-
 #EXTINF:-1 group-title="Berita",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 
 #EXTINF:-1 group-title="Berita",CNBC Indonesia
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
-
-
-#EXTINF:-1 group-title="Indonesia TV",NET TV FHD
-https://mr.bibbo.id/ccc/NETTV.m3u8
-
-
 #EXTINF:-1 group-title="Indonesia TV",NET TV SD
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
-
 
 #EXTINF:-1 group-title="Indonesia TV",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
@@ -30,34 +15,23 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992
 #EXTINF:-1 group-title="Indonesia TV",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://mr.bibbo.id/ccc/MagnaChannel.png" group-title="Indonesia TV",Magna Channel HD
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w757574110_b2692000_sleng.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://mr.bibbo.id/ccc/MagnaChannel.png" group-title="Indonesia TV",Magna Channel FHD
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
 
-
-#EXTINF:-1 group-title="Indonesia TV",MyTV
-http://210.210.155.35/qwr9ew/s/s46/01.m3u8
-
-
 #EXTINF:-1 group-title="Indonesia TV",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
-
 
 #EXTINF:-1 group-title="Indonesia TV",SCTV 1
 http://45.126.83.51/qwr9ew/s/s03/01.m3u8
 
-
 #EXTINF:-1 group-title="Indonesia TV",SCTV 2
 http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 
-
 #EXTINF:-1 group-title="Indonesia TV",INDOSIAR
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
-
 
 #EXTINF:-1 group-title="Indonesia TV",INDOSIAR 2
 http://210.210.155.35/qwr9ew/s/s04/index10.m3u8
@@ -65,14 +39,17 @@ http://210.210.155.35/qwr9ew/s/s04/index10.m3u8
 #EXTINF:-1 group-title="Indonesia TV",ANTV
 http://210.210.155.35/qwr9ew/s/s07/01.m3u8
 
-
 #EXTINF:-1 group-title="Berita",TVOne
 http://210.210.155.35/session/8ada75ba-2f85-11eb-9529-b82a72d63267/qwr9ew/s/s105/01.m3u8
 
-
+#EXTINF:-1 group-title="Berita",TVOne 2 (Test)
+http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:-1 group-title="Berita",KompasTV
 http://210.210.155.35/qwr9ew/s/s104/index.m3u8 
+
+#EXTINF:-1 group-title="Berita",KompasTV 2 (Test)
+http://210.210.155.35/qwr9ew/s/s104/01.m3u8 
 
 #EXTINF:-1 group-title="Indonesia TV",Elshinta TV
 http://210.210.155.35/qwr9ew/s/s10/index.m3u8
@@ -80,85 +57,32 @@ http://210.210.155.35/qwr9ew/s/s10/index.m3u8
 #EXTINF:-1 group-title="Indonesia TV",TVRI
 http://210.210.155.35/qwr9ew/s/s11/index.m3u8
 
-
-#EXTINF:-1 group-title="Indonesia TV",TVRI Sport HD
-http://210.210.155.35/qwr9ew/s/s107/index.m3u8 
-
-
-#EXTINF:-1 group-title="Berita",RRI NET
-http://36.89.47.217:11935/rrinet/live/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia TV",RTV
-http://210.210.155.35/qwr9ew/s/s12/01.m3u8
-
 #EXTINF:-1 group-title="Indonesia TV",Badar TV
 https://e1.siar.us/badartv/live/chunks.m3u8
-
-#EXTINF:-1 group-title="Indonesia TV",MGS TV
-http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Indonesia TV",DAAI TV
 http://210.210.155.35/qwr9ew/s/s13/index.m3u8
 
-
-
-#EXTINF:-1 group-title="Indonesia TV",CTV Banten
-http://103.23.201.170:1935/live/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://mr.bibbo.id/ccc/ntv.png" group-title="Indonesia TV",Nusantara TV
-https://v6.siar.us/nusantaratv/live/chunks.m3u8
-
-
-
-#EXTINF:-1 group-title="BeritaSatu",Berita Satu SD
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
-
-
 #EXTINF:-1 group-title="Berita",Berita Satu HD
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-
 
 #EXTINF:-1 group-title="Berita",Berita Satu World HD
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
-#EXTINF:-1 group-title="Berita",Jakarta Globe
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-
-#EXTINF:-1 group-title="Berita",Jakarta Globe HD
-http://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8 
-
-
 #EXTINF:-1 group-title="TV Daerah",Bali TV
 http://45.126.83.51/uq2663/h/h159/S4/mnf.m3u8
-
 
 #EXTINF:-1 group-title="Indonesia TV",Rodja TV
 http://210.210.155.35/qwr9ew/s/s14/index.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",U Channel
+#EXTINF:-1 group-title="Indonesia TV",Moji
 http://45.126.83.51/qwr9ew/s/s41/index.m3u8
-
-#EXTINF:-1 group-title="Indonesia TV",JITV
-http://202.169.224.76:1935/tv/jitv/chunklist_w544975635.m3u8
 
 #EXTINF:-1 group-title="Indonesia TV",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 
-#EXTINF:-1 group-title="Indonesia TV",TEGAR TV
-http://wms.klikhost.com/tegartv/live/playlist.m3u8
-
-
-#EXTINF:-1 group-title="TV Daerah",JPN Stream
-http://122.248.43.138:1935/jpm/myStream/playlist.m3u8
-
 #EXTINF:-1 group-title="TV Daerah",JTV
 http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="TV Daerah",JTV Pacitan
-http://122.248.43.138:1935/ch21/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="TV Daerah",Bengkulu TV
-http://122.248.43.138:1935/ch3/myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Daerah",Simpang 5 TV
 http://122.248.43.138:1935/ch4/myStream/playlist.m3u8
@@ -174,9 +98,6 @@ http://122.248.43.138:1935/ch6/myStream/chunklist_w1818250765.m3u8
 
 #EXTINF:-1 group-title="TV Daerah",PAL TV
 http://122.248.43.138:1935/ch7/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="TV Daerah",RCTV
-http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Daerah",Balikapan TV
 http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
