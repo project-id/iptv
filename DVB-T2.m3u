@@ -1,27 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NET" group-title="General",NET
+#EXTINF:-1 group-title="General" tvg-id="NET",NET
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
-#EXTINF:-1 tvg-id="RodjaTV" group-title="General",RodjaTV
+#EXTINF:-1 group-title="General" tvg-id="RodjaTV" group-title="General",RodjaTV
 http://210.210.155.37/qwr9ew/s/s14/index.m3u8
-#EXTINF:-1 tvg-id="SCTV" group-title="General",SCTV
+#EXTINF:-1 group-title="General" tvg-id="SCTV" group-title="General",SCTV
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
-#EXTINF:-1 tvg-id="MOJI" group-title="General",MOJI
+#EXTINF:-1 group-title="General" tvg-id="MOJI" group-title="General",MOJI
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
-#EXTINF:-1 tvg-id="ANTV" group-title="General",ANTV
+#EXTINF:-1 group-title="General" tvg-id="ANTV" group-title="General",ANTV
 http://210.210.155.37/qwr9ew/s/s07/index.m3u8
-#EXTINF:-1 tvg-id="Indosiar" group-title="General",Indosiar
+#EXTINF:-1 group-title="General" tvg-id="Indosiar" group-title="General",Indosiar
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
-#EXTINF:-1 tvg-id="TVRI" group-title="General",TVRI
+#EXTINF:-1 group-title="General" tvg-id="TVRI" group-title="General",TVRI
 http://210.210.155.37/qwr9ew/s/s11/index.m3u8
-#EXTINF:-1 tvg-id="SalamTV" group-title="General",SalamTV
+#EXTINF:-1 group-title="General" tvg-id="BeritaSatu" group-title="General",BeritaSatu
 https://raw.githubusercontent.com/project-id/iptv/main/tv/BeritaSatu.m3u8
-#EXTINF:-1 tvg-id="SalamTV" group-title="General",SalamTV
+#EXTINF:-1 group-title="General" tvg-id="KompasTV" group-title="General",KompasTV
 https://raw.githubusercontent.com/project-id/iptv/main/tv/KompasTV.m3u8
-#EXTINF:-1 tvg-id="SalamTV" group-title="General",SalamTV
+#EXTINF:-1 group-title="General" tvg-id="MediaSunnahAceh" group-title="General",MediaSunnahAceh
 https://raw.githubusercontent.com/project-id/iptv/main/tv/MediaSunnahAceh.m3u8
-#EXTINF:-1 tvg-id="SalamTV" group-title="General",SalamTV
+#EXTINF:-1 group-title="General" tvg-id="MetroTV" group-title="General",MetroTV
 https://raw.githubusercontent.com/project-id/iptv/main/tv/MetroTV.m3u8
-#EXTINF:-1 tvg-id="SalamTV" group-title="General",SalamTV
+#EXTINF:-1 group-title="General" tvg-id="RodjaTV.m3u8" group-title="General",RodjaTV.m3u8
+https://raw.githubusercontent.com/project-id/iptv/main/tv/RodjaTV.m3u8.m3u8
+#EXTINF:-1 group-title="General" tvg-id="SalamTV" group-title="General",SalamTV
 https://raw.githubusercontent.com/project-id/iptv/main/tv/SalamTV.m3u8
-#EXTINF:-1 tvg-id="SalamTV" group-title="General",SalamTV
+#EXTINF:-1 group-title="General" tvg-id="tvOne" group-title="General",tvOne
 https://raw.githubusercontent.com/project-id/iptv/main/tv/tvOne.m3u8
