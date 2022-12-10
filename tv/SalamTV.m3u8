@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=480x360
+https://h1.intechmedia.net/intech/ch12.m3u8
