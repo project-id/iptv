@@ -13,3 +13,15 @@ http://210.210.155.37/qwr9ew/s/s07/index.m3u8
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 #EXTINF:-1 tvg-id="TVRI" group-title="General",TVRI
 http://210.210.155.37/qwr9ew/s/s11/index.m3u8
+#EXTINF:-1 tvg-id="SalamTV" group-title="General",SalamTV
+https://raw.githubusercontent.com/project-id/iptv/main/tv/BeritaSatu.m3u8
+#EXTINF:-1 tvg-id="SalamTV" group-title="General",SalamTV
+https://raw.githubusercontent.com/project-id/iptv/main/tv/KompasTV.m3u8
+#EXTINF:-1 tvg-id="SalamTV" group-title="General",SalamTV
+https://raw.githubusercontent.com/project-id/iptv/main/tv/MediaSunnahAceh.m3u8
+#EXTINF:-1 tvg-id="SalamTV" group-title="General",SalamTV
+https://raw.githubusercontent.com/project-id/iptv/main/tv/MetroTV.m3u8
+#EXTINF:-1 tvg-id="SalamTV" group-title="General",SalamTV
+https://raw.githubusercontent.com/project-id/iptv/main/tv/SalamTV.m3u8
+#EXTINF:-1 tvg-id="SalamTV" group-title="General",SalamTV
+https://raw.githubusercontent.com/project-id/iptv/main/tv/tvOne.m3u8
