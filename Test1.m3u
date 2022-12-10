@@ -2,8 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19765549_ico.png?ts=1654800851" group-title="IPTV",ACTION MOVIES
 http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20753209_ico.png?ts=1655159537" group-title="IPTV",STAR MOVIES
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19498270_ico.png?ts=1654800910" group-title="IPTV",TVRI SPORT
 http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
@@ -15,11 +14,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20274240_ico.png?ts=1654805804" group-title="IPTV",SPOTV 2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20392732_ico.png?ts=1654805856" group-title="IPTV",SONY TEN 1
-https://s1.123zcast.me:8106/hd/hls/kaLc1TUI1Y2ZZuuaMNHJCg/1658945136/ten1endia.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20392768_ico.png?ts=1654805937" group-title="IPTV",SONY TEN 2
-https://s99.123zcast.me:8902/hd/hls/h-pz5ZoQYyy8wo2eYdStLA/1658945454/ten2endia.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21528780_ico.png?ts=1658211297" group-title="IPTV",UNIFI SPORTS 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -36,8 +30,7 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20400813_ico.png?ts=1655398296" group-title="IPTV",POP MUSIK
 https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19927127_ico.png?ts=1654806546" group-title="IPTV",DANGDUT TV
-http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20133950_ico.png?ts=1655397863" group-title="IPTV",MALEO
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20958990_ico.png?ts=1655339707" group-title="IPTV",BOX HITS
