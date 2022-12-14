@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1, World Cup Channel 01
+https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/U9nasUiFIdV5XO3fpt901fRdX5y90UKF7abF4ppusoxTXeQohbpPZHIhFOWgp9e1zChq1-a_U1Ixlhn3yq5rbg/transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tm_dynamic_highlatency.m3u8
+
+#EXTINF:-1, World Cup Channel 02
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/M2-_5inwIMnXqSQQ1l1iXIUAOXS3xpEcxVBKsC4sOsjMqFfuv7XuDwDcBVf_8e45806F53nqzPPoCw64TA-HuA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tm_dynamic_highlatency.m3u8
