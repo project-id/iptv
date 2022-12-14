@@ -1,104 +1,103 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/Al-ImanTV.png",Al-ImanTV (HD)
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/Al-ImanTV.png",Al-ImanTV (HD)
 https://tv.rodja.live/aliman/ngrp:HD_all/chunklist_w1394218737_b1463840.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/ANTV.png",ANTV (SD)
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/ANTV.png",ANTV (SD)
 http://210.210.155.35/qwr9ew/s/s07/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/BeritaSatu.png",Berita Satu (HD)
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/BeritaSatu.png",Berita Satu (HD)
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/BeritaSatuWorld.png",Berita Satu World (HD)
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/BeritaSatuWorld.png",Berita Satu World (HD)
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/CNBC-Indonesia.png",CNBC Indonesia (HD)
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/CNBC-Indonesia.png",CNBC Indonesia (HD)
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w28835951_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/CNN-Indonesia.png",CNN Indonesia (HD)
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/CNN-Indonesia.png",CNN Indonesia (HD)
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1622728976_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/GTV.png",GTV (HD)
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/GTV.png",GTV (HD)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/HijrahTV.png",HijrahTV (SD)
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/HijrahTV.png",HijrahTV (SD)
 https://h1.intechmedia.net/intech/ch8.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/Indosiar.png",Indosiar (SD)
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/Indosiar.png",Indosiar (SD)
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/Indosiar.png",Indosiar (SD) 2
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/Indosiar.png",Indosiar (SD) 2
 http://210.210.155.35/qwr9ew/s/s04/index10.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/iNews.png",iNews (HD)
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/iNews.png",iNews (HD)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/KompasTV.png",KompasTV (HD)
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/KompasTV.png",KompasTV (HD)
 https://live-kg.jixie.media/live/kompastv_lhd.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/MedsTV.jpg",Media Sunnah Aceh TV (SD)
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/MedsTV.jpg",Media Sunnah Aceh TV (SD)
 https://h1.intechmedia.net/intech/ch23.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/MedsTV.jpg",Media Sunnah Aceh TV (FHD)
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/MedsTV.jpg",Media Sunnah Aceh TV (FHD)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/@MediaSunnahAceh/live
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/MetroTV.png",MetroTV (HD)
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/MetroTV.png",MetroTV (HD)
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1983665569_b1492000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/MNCTV.png",MNCTV (HD)
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/MNCTV.png",MNCTV (HD)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/Moji.png",Moji (SD)
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/Moji.png",Moji (SD)
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/Moji.png",Moji (SD) 2
-#EXTINF:-1 group-title="Indonesia TV",Moji
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/Moji.png",Moji (SD) 2
 http://45.126.83.51/qwr9ew/s/s41/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/NET.png",NET (SD)
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/NET.png",NET (SD)
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/NET.png",NET (SD) 2
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/NET.png",NET (SD) 2
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/RCTI.png",RCTI (HD)
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/RCTI.png",RCTI (HD)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/RodjaTV.png",RodjaTV (HD)
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/RodjaTV.png",RodjaTV (HD)
 https://tv.rodja.live/live/ngrp:rodja_all/chunklist_w774173333_b1596000.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/RodjaTV.png",RodjaTV (SD)
-http://210.210.155.35/qwr9ew/s/s14/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/SalamTV.png",SalamTV (SD)
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/SalamTV.png",SalamTV (SD)
 https://h1.intechmedia.net/intech/ch12.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/SCTV.png",SCTV (SD)
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/RodjaTV.png",RodjaTV (SD)
+http://210.210.155.35/qwr9ew/s/s14/index.m3u8
+
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/SCTV.png",SCTV (SD)
 http://45.126.83.51/qwr9ew/s/s03/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/SCTV.png",SCTV (SD) 2
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/SCTV.png",SCTV (SD) 2
 http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/Trans7.png",Trans7 (HD)
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/Trans7.png",Trans7 (HD)
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w655349946_b744100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/TransTV.png",TransTV (HD)
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/TransTV.png",TransTV (HD)
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1789838549_b744100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/tvN.png",TVN (SD)
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/tvN.png",TVN (SD)
 http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/tvN-Movies.jpg",TVN Movies (SD)
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/tvN-Movies.jpg",TVN Movies (SD)
 http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/tvOne.png",TVOne (SD)
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/tvOne.png",TVOne (SD)
 http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/tvOne.png",TVOne (FHD)
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://gitlab.com/opnx/iptv/-/raw/main/img/tvOne.png",TVOne (FHD)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/@tvOneNews/live
 
 
