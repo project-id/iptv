@@ -6,4 +6,4 @@ https://rcti-linier.rctiplus.id/RCTI_2021.m3u8
 
 #EXTINF:-1, GTV (HD) 
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://h-gtv.rctiplus.id/GTV2021.m3u8
+https://h-gtv.rctiplus.id/GTV2021.m3u8?auth_key=1671177829-0-0-d76bfe863aa0f0b4bfd08928517e4a59
